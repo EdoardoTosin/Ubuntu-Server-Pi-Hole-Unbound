@@ -1,2 +1,2 @@
 # Ubuntu Server + Pi-Hole + Unbound
-[IT] Tutorial creazione server DNS.
+*How to Setup and Configure DNS Server on Your Local Network*

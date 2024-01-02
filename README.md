@@ -1,9 +1,17 @@
 # Ubuntu Server + Pi-Hole + Unbound
 
-*How to Setup and Configure DNS Server on Your Local Network*
+*Read this in other languages: [English](README.md), [Italiano](README.it-IT.md).*
 
-* [Installazione e configurazione server DNS (Parte 1) - Installazione Ubuntu Server](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-1)
-* [Installazione e configurazione server DNS (Parte 2) - Installazione 2FA](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-2)
-* [Installazione e configurazione server DNS (Parte 3) - Installazione Pi-Hole](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-3)
-* [Installazione e configurazione server DNS (Parte 4) - Installazione Unbound](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-4)
-* [Installazione e configurazione server DNS (Parte 5) - Configurazione Pi-Hole](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-5)
+Welcome to this comprehensive guide on setting up a robust and secure DNS server using Ubuntu, Pi-Hole, and Unbound. This setup enhances your privacy and gives you better control over your network traffic.
+
+* [Installation and configuration of DNS server (Part 1) - Ubuntu Server Installation](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-1)
+* [Installation and configuration of DNS server (Part 2) - Installation 2FA](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-2)
+* [Installation and configuration of DNS server (Part 3) - Installation Pi-Hole](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-3)
+* [Installation and configuration of DNS server (Part 4) - Installation Unbound](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-4)
+* [Installation and configuration of DNS server (Part 5) - Pi-Hole Configuration](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-5)
+
+## Original Unified Guide
+
+For those interested in the original unified guide, please follow [this link](readme.i18n/README.en-US.md).
+
+Enjoy exploring the world of DNS servers with Ubuntu, Pi-Hole, and Unbound!

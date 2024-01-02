@@ -28,7 +28,7 @@ Selezionare con i tasti freccia la voce `Try or Install Ubuntu Server` e premere
 
 ### Scelta lingua
 
-La prima scelta di configurazione riguarda la lingua di sistema. Si può selezionare `English` perché non verrà installata nessuna interfaccia grafica nel computer e quindi diventa irrilevante.
+La prima scelta di configurazione riguarda la lingua di sistema. Si può selezionare `English` perché non verrà installata nessuna interfaccia grafica nel computer e quindi diventa irrilevante (inoltre gli screen mostrano la versione in inglese, quindi potrebbe risultare più semplice da seguire).
 
 ![Ubuntu Server 2](https://raw.githubusercontent.com/EdoardoTosin/Ubuntu-Server-Pi-Hole-Unbound/main/assets/1_Ubuntu_Server/Ubuntu_Server_2.jpg)
 

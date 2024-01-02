@@ -4,11 +4,11 @@
 
 Welcome to this comprehensive guide on setting up a robust and secure DNS server using Ubuntu, Pi-Hole, and Unbound. This setup enhances your privacy and gives you better control over your network traffic.
 
-* [Installation and configuration of DNS server (Part 1) - Ubuntu Server Installation](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-1)
-* [Installation and configuration of DNS server (Part 2) - Installation 2FA](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-2)
-* [Installation and configuration of DNS server (Part 3) - Installation Pi-Hole](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-3)
-* [Installation and configuration of DNS server (Part 4) - Installation Unbound](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-4)
-* [Installation and configuration of DNS server (Part 5) - Pi-Hole Configuration](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-5)
+* [DNS server installation and configuration (Part 1) - Ubuntu Server installation](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-1)
+* [DNS server installation and configuration (Part 2) - 2FA installation](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-2)
+* [DNS server installation and configuration (Part 3) - Pi-Hole installation](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-3)
+* [DNS server installation and configuration (Part 4) - Unbound installation](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-4)
+* [DNS server installation and configuration (Part 5) - Pi-Hole Configuration](https://edoardotosin.github.io/post/ubuntu-server-pihole-unbound-part-5)
 
 ## Original Unified Guide
 

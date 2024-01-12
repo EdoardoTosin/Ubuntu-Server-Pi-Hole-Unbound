@@ -15,3 +15,16 @@ Benvenuto nella guida completa sulla configurazione di un server DNS robusto e s
 Per coloro che sono interessati alla guida unificata originale, seguite [questo link](readme.i18n/README.it-IT.md).
 
 Apprezziamo l'esplorazione del mondo dei server DNS con Ubuntu, Pi-Hole e Unbound!
+
+## License
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+Questo materiale è sotto licenza
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/deed.it
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg

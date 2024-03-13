@@ -3,7 +3,7 @@
 
 # Ubuntu Server + Pi-Hole + Unbound
 
-This guide will illustrate how to install Ubuntu Server (operating system) along with the FOSS tools [Pi-Hole](https://it.wikipedia.org/wiki/Pi-hole) (dns ad-blocker) and [Unbound](https://it.wikipedia.org/wiki/Unbound) (dns resolver). Furthermore, two-factor authentication (2FA) is used as an additional protection against unauthorized access.
+This guide will illustrate how to install Ubuntu Server (operating system) along with the FOSS tools [Pi-Hole](https://en.wikipedia.org/wiki/Pi-hole) (dns ad-blocker) and [Unbound](https://en.wikipedia.org/wiki/Unbound_(DNS_server)) (dns resolver). Furthermore, two-factor authentication (2FA) is used as an additional protection against unauthorized access.
 
 ## Requirements
 

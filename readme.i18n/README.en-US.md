@@ -15,7 +15,7 @@ First, proceed with the installation of the Ubuntu Server 22.04 distribution dow
 
 ### Installation on USB drive
 
-After downloading the distribution iso file, it needs to be mounted on a USB drive. To mount the image, you can use Balena Etcher, UNetbootin or Rufus (all FOSS).
+After downloading the distribution iso file, it needs to be mounted on a USB drive. To mount the image, you can use Balena Etcher, UNetbootin or Rufus (all [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
 
 ### Boot from USB
 

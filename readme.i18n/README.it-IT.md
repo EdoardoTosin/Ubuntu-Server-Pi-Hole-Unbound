@@ -17,7 +17,7 @@ Per prima cosa si procede all'installazione della distro Ubuntu Server 22.04 sca
 
 ### Installazione nel drive USB
 
-Dopo aver scaricato il file iso della distro bisogna montarlo in un drive USB. Come programmi per montare l’immagine, si può utilizzare Balena Etcher, UNetbootin oppure Rufus (tutti FOSS).
+Dopo aver scaricato il file iso della distro bisogna montarlo in un drive USB. Come programmi per montare l’immagine, si può utilizzare Balena Etcher, UNetbootin oppure Rufus (tutti [FOSS](https://it.wikipedia.org/wiki/Free_and_Open_Source_Software)).
 
 ### Boot da USB
 

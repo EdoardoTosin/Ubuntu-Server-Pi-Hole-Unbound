@@ -20,7 +20,7 @@ Enjoy exploring the world of DNS servers with Ubuntu, Pi-Hole, and Unbound!
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
+This work is licensed under the
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]

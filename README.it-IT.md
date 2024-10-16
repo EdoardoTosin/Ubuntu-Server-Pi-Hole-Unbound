@@ -1,6 +1,6 @@
 # Ubuntu Server + Pi-Hole + Unbound
 
-*Leggi questa guida in altre lingue: [Inglese](README.md), [Italiano](README.it-IT.md).*
+*Leggi questa guida in altre lingue: [English](README.md), [Italiano](README.it-IT.md).*
 
 Benvenuto nella guida completa sulla configurazione di un server DNS robusto e sicuro utilizzando Ubuntu, Pi-Hole e Unbound. Questa configurazione migliora la tua privacy e ti dà un maggiore controllo sul tuo traffico di rete.
 
@@ -14,7 +14,7 @@ Benvenuto nella guida completa sulla configurazione di un server DNS robusto e s
 
 Per coloro che sono interessati alla guida unificata originale, seguite [questo link](readme.i18n/README.it-IT.md).
 
-Apprezziamo l'esplorazione del mondo dei server DNS con Ubuntu, Pi-Hole e Unbound!
+Esplora il mondo dei server DNS con Ubuntu, Pi-Hole e Unbound!
 
 ## License
 
